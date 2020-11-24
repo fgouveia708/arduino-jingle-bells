@@ -19,7 +19,7 @@ A ideia é criar uma aplicação com Arduino UNO, LEDs e Buzzer para tocar a mú
 
 ### Circuito
                 
-![](https://github.com/fgouveia708/arduino-jingle-bells/blob/main/arduino-circuit.png)
+[![Watch the video](https://github.com/fgouveia708/arduino-jingle-bells/blob/main/arduino-circuit.png)](https://drive.google.com/file/d/1me3hD2MsxUnsihaKxg7ShnOi_Uajx9rg/view)
 
 
 ### Notas musicais
