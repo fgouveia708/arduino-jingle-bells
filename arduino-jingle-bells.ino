@@ -8,7 +8,7 @@ int YELLOW = 12;
 int GREEN2 = 13;
 
 int interval = 200;
-char notes[] = "EEEEEEEGCDE FFFFFEEEEDDEDG";
+char chords[] = "EEEEEEEGCDE FFFFFEEEEDDEDG";
 int duration[] = {1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2};
 
 void setup() {
@@ -23,11 +23,11 @@ void setup() {
 }
 
 void loop() {
-  for (int i = 0; i <= sizeof(notes) - 1; i++) {
-    if (notes[i] == ' ') {
+  for (int i = 0; i <= sizeof(chords) - 1; i++) {
+    if (chords[i] == ' ') {
       delay(duration[i] * interval);
     } else {
-      playToneAndLed(notes[i], duration[i] * interval);
+      playToneAndLed(chords[i], duration[i] * interval);
     }
     delay((interval * 2)*duration[i]);
   }
