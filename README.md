@@ -60,6 +60,6 @@ Para cada nota tocada é acionado um LED. Abaixo a tabela de cores por nota:
 
 Para demonstração em modelo real foi alterado as cores dos LEDs branco e laranja para verde. 
 
-[![Watch the video](https://github.com/fgouveia708/arduino-jingle-bells/blob/main/arduino.jpeg)](https://drive.google.com/file/d/1gJoQaQ1yJOaH9DIh20tmrYricKBD6c47/view?usp=sharing)
+[![Watch the video](https://github.com/fgouveia708/arduino-jingle-bells/blob/main/arduino.jpg)](https://drive.google.com/file/d/1gJoQaQ1yJOaH9DIh20tmrYricKBD6c47/view?usp=sharing)
  
 Assista: https://drive.google.com/file/d/1gJoQaQ1yJOaH9DIh20tmrYricKBD6c47/view?usp=sharing
