@@ -5,7 +5,7 @@
 ![](https://raw.githubusercontent.com/fgouveia708/arduino-jingle-bells/blob/main/arduino-circuit.png)
 
 
-Jingle Bells - Arduino é uma aplicação demonstrativa que mostra técnicas de desenvolvimento para IOT usando Arduino UNO, LEDs e Buzzer.
+Jingle Bells - Arduino é uma aplicação que demonstra técnicas de desenvolvimento para IOT usando Arduino UNO, LEDs e Buzzer.
 
 - [Jingle Bells](https://github.com/fgouveia708/arduino-jingle-bells#jingle-bells---arduino)
     - [Introdução](https://github.com/fgouveia708/arduino-jingle-bells#introdu%C3%A7%C3%A3o)
